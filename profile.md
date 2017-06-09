@@ -54,6 +54,10 @@ the [Open Service Broker API specification](spec.md) SHALL take precedence.
   with the Service Instance.
 
 - *Application*: The software that uses a Service Instance via Service Binding.
+<<<<<<< HEAD
+=======
+  Instance.
+>>>>>>> reword Application definition
 
 ## Context Object
 
